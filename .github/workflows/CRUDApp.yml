@@ -4,6 +4,8 @@
 name: CRUDApp
 
 on:
+  
+  push:
   release:
     types: [created]
 
